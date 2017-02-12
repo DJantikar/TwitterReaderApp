@@ -12,8 +12,8 @@ import twitter4j.auth.AccessToken;
 import twitter4j.auth.RequestToken;
 
 public class TwitterReaderWithPin {
-    private final static String CONSUMER_KEY = "PowlRtV7YqgpJNCEnr7l5FBaD";
-    private final static String CONSUMER_KEY_SECRET = "0mPJj0QWnMo83sSVQDRGezAXyszmgzZrPUTpf2wWpimy5yrSVI";
+    private final static String CONSUMER_KEY = "4MWHR9sMyLQZe4dNufYF2l2wX";
+    private final static String CONSUMER_KEY_SECRET = "S7999qdmgtX7vsMu3gzHMiJRoflZSp7hdGR55sfHMrZS9D3IoE";
 
     public void start() throws TwitterException, IOException {
 
