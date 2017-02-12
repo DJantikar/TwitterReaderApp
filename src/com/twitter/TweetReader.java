@@ -13,8 +13,8 @@ public class TweetReader {
 		//Hello
 		ConfigurationBuilder cb = new ConfigurationBuilder();
 		cb.setDebugEnabled(true)
-		  .setOAuthConsumerKey("UxNDMgAAAAAAzHTLAAABWiPB06c")
-		  .setOAuthConsumerSecret("LBpbRUQQcsrenxKUijHoqIf0gAJq61Sh")
+		  .setOAuthConsumerKey("4MWHR9sMyLQZe4dNufYF2l2wX")
+		  .setOAuthConsumerSecret("S7999qdmgtX7vsMu3gzHMiJRoflZSp7hdGR55sfHMrZS9D3IoE")
 		  .setOAuthAccessToken("3314374297-hmrTTvdMR6QVGkDNDd288FpF2JrRHVBKQJqJqMc")
 		  .setOAuthAccessTokenSecret("vkGNtIC1lxoPwDAC16xWG1pjqUUdlwSu93v9KiyUJJpGe");
 		
